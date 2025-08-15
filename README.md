@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, eu sou a Bellinha! ✨</h1>
+<h1 align="center">Olá, eu sou Bella!</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 Designer | 🖌️ Ilustradora</h3>
 
 <p align="center">
@@ -19,11 +19,15 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,php,mysql,postgres&theme=light" />
 </p>
 
+<br>
+
 <h3 align="center">🎨 Frontend Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
 </p>
+
+<br>
 
 <h3 align="center">🖥️ Softwares</h3>
 
