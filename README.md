@@ -19,11 +19,11 @@
   
   <br>
 
-  (https://skillicons.dev/icons?i=c,cpp,js,php,mysql,postgres&theme=ligh)
+  ![My Skills](https://skillicons.dev/icons?i=c,cpp,js,php,mysql,postgres&theme=light)
   
 <h3 align="center">Frontend Development</h3>
 
-https://skillicons.dev/icons?i=html,css
+![My Skills](https://skillicons.dev/icons?i=html,css&theme=light)
 
 <h3 align="center">Softwares</h3>
   <br>
