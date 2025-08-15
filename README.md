@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou Bella!</h1>
+<h1 align="center">Ei, Bella aqui! ✨</h1>
 <h3 align="center">💻 Frontend Developer | 🎨 Designer | 🖌️ Ilustradora</h3>
 
 <p align="center">
