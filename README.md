@@ -1,5 +1,5 @@
 <h1 align="center">Ei, Bella aqui! ✨</h1>
-<h3 align="center">💻 Frontend Developer | 🎨 Designer | 🖌️ Ilustradora</h3>
+<h3 align="center">💻 Frontend Developer  |  🎨 Designer  |  🖌️ Ilustradora</h3>
 
 <p align="center">
   Criando experiências digitais que unem <b>código</b>, <b>design</b> e <b>arte</b>.
@@ -19,15 +19,11 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,js,php,mysql,postgres&theme=light" />
 </p>
 
-<br>
-
 <h3 align="center">🎨 Frontend Development</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css&theme=light" />
 </p>
-
-<br>
 
 <h3 align="center">🖥️ Softwares</h3>
 
