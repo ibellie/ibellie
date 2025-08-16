@@ -1,5 +1,5 @@
 <h1 align="center">Ei, Bella aqui! ✨</h1>
-<h3 align="center">💻 Frontend Developer  |  🎨 Designer  |  🖌️ Ilustradora</h3>
+<h3 align="center">💻 Frontend Developer ㅤ| ㅤ🎨 Designer ㅤ| ㅤ🖌️ Ilustradora</h3>
 
 <p align="center">
   Criando experiências digitais que unem <b>código</b>, <b>design</b> e <b>arte</b>.
