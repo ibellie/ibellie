@@ -7,7 +7,7 @@
 
 ---
 
-🌱 - Atualmente aprendendo: **JavaScript avançado, UX/UI e animações web**  
+🌱 - Atualmente aprendendo: **JavaScript, UX/UI e animações web**  
 🎯 - Objetivo: Criar interfaces criativas e funcionais que encantem o usuário  
 💡 - Graduando em <b>Design</b> pela Universidade Federal de Pernambuco - (UFPE)
 
